@@ -1,0 +1,5 @@
+*.app
+Translations/*.g.xlf
+rad.json
+*/.alcache/*.*
+*/.altemplates/*.*
